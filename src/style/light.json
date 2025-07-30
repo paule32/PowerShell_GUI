@@ -1,0 +1,42 @@
+{
+    "Menu": {
+        "Normal": {
+            "Font": {
+                "Name": "Arial",
+                "Size": 10,
+                "Style": {
+                    "Bold": 1,
+                    "Italic": 0,
+                    "Underline": 0
+                },
+                "Color": "white"
+            },
+            "Pen": {
+                "Color": "yellow"
+            },
+            "Brush": {
+                "Color": "red",
+                "Image": ""
+            }
+        },
+        "Hover": {
+            "Font": {
+                "Name": "Arial",
+                "Size": 10,
+                "Style": {
+                    "bold": 1,
+                    "italic": 0,
+                    "stroke": 0
+                },
+                "Color": "red"
+            },
+            "Pen": {
+                "Color": "yellow"
+            },
+            "Brush": {
+                "Color": "red",
+                "Image": ""
+            }
+        }
+    }
+}
